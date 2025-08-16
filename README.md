@@ -1,10 +1,6 @@
 # 🎭 Security Skit Library
 Architecting secure coding culture through teachable skits. Real Exploits. Teachable Moments. reproducible workflows.
 
-Welcome to the **Security Skit Library**—a legacy-grade onboarding system for exploit-aware remediation.  
-Each module dramatizes a real-world vulnerability as a teachable scene, complete with annotated fixes, SOPs, and reusable artifacts.
-Real exploits. Teachable scenes. Reproducible remediation.
-
 Welcome to the **Security Skit Library**—a legacy-grade onboarding system for exploit-aware remediation. Each module dramatizes a real-world vulnerability as a teachable skit, complete with:
 
 🎬 Narrative-driven exploits that engage and educate
